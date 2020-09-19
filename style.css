@@ -31,6 +31,12 @@ h1 {
     border: solid 3px black;
 }
 
+.display {
+    background:purple;
+    border: solid 3px black;
+    margin: 2px; /*prob dont need? */
+}
+
 .main-container {
     /* display: flex; */
     /* justify-content: center; */
