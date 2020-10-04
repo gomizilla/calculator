@@ -31,10 +31,18 @@ h1 {
     border: solid 3px black;
 }
 
+
 .display {
     background:purple;
     border: solid 3px black;
     margin: 2px; /*prob dont need? */
+}
+
+input {
+    background-color: purple;
+    color: white;
+    font-size: 24px;
+    direction: rtl;
 }
 
 .main-container {
